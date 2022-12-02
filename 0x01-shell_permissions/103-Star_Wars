@@ -1,1 +1,2 @@
 #!/bin/basH
+telnet towel.blinkenlights.nl
